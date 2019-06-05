@@ -1,0 +1,19 @@
+.btn-outline-light{
+    margin-left: 10px;
+    border-radius: 50px;
+}
+
+nav{
+    width:100%;
+    border-bottom: 1px solid #6CA3F9;
+}
+.navbar{
+    background-color:#510fa8;
+}
+img{
+    width:30px;
+    color:#FFF;
+}
+h4{
+    font-family: 'Pacifico', cursive;
+}

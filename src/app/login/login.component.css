@@ -1,0 +1,27 @@
+.row{
+    margin-right:0;
+    padding-right:0;
+}
+.background {
+    background-color:#510fa8;
+    height:100%;
+}
+
+.card{
+    background-color: transparent !important;
+    color: #FFF;
+    border: none;
+    margin-top:35%;
+}
+
+.btn[type=submit]{
+    border-radius: 50px;
+}
+
+.btn-link{
+    color: #FFF;
+}
+
+h1{
+    color: #FFF;
+}
